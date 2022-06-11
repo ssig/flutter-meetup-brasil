@@ -1,11 +1,11 @@
 {
-    "name": "flutter_meetup_brasil",
-    "short_name": "flutter_meetup_brasil",
+    "name": "Flutter Meetup Brasil",
+    "short_name": "Um ambiente para fomentar o mercado de flutter no Brasil",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Um ambiente para gerenciamento de evento para compartilhamento de conhecimentos e experiências para fortalecer o mercado de flutter no Brasil.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
